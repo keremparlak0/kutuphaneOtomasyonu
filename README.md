@@ -6,7 +6,7 @@ Bu proje bir şekilde kütüphane otomasyonu projesidir. Genel olarak personelin
 
 
 ## Projenin İçerdiği Genel Özellikler
--Üye kaydı alma\n
+-Üye kaydı alma
 -Üye ve personel girişi yapabilme,
 -Veri tabanındaki kitap ve üye bilgilerini listeleyebilme,
 -Kitap ekle/çıkar işlemlerini yapabilme,
